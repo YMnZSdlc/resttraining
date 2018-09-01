@@ -1,4 +1,4 @@
-package pl.sda.sesttraining;
+package pl.sda.resttraining;
 
 
 import lombok.Getter;
